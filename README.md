@@ -20,7 +20,7 @@ To Visit App:
 [Click here](https://covid-19-tracker-8f7fe.web.app/)
 
 
-This was a side project built during my Full Stack Developement program at Lambda School. Project goals included using technologies such as React, Chart.js, leaflet and Firebase for deployement
+COVID-19 Tracker Project goals included using technologies such as React, Chart.js, leaflet and Firebase for deployement
 
 Originally I wanted to build an application that allowed users to track COVID-19 cases around the world. I started this process by using the `create-react-app` boilerplate, then bringing in data from  https://disease.sh/
 
